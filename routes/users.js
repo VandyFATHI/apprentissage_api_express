@@ -6,12 +6,12 @@ const router = express.Router();
 let users = [
     // {
     //     firstName: "vandy",
-    //     lastName: "leBG",
+    //     lastName: "vandy",
     //     age: 23 
     // },
     // {
     //     firstName: "donia",
-    //     lastName: "laBGette",
+    //     lastName: "donia",
     //     age: 20
     // }
 ];
